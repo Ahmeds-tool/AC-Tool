@@ -2,6 +2,8 @@
 
 **AC Tool** is a lightweight utility that simplifies the process of adding games to your Steam library using SteamTool. Due to recent issues with the latest version of SteamTool not correctly handling game additions, AC Tool provides a workaround by allowing you to add the necessary `.lua` and `.manifest` files directly through its icon.
 
+![image](https://github.com/user-attachments/assets/66e4ba0b-39a3-4492-a668-9ab2a67f210c)
+
 ## Features
 
 - Easily add games to Steam using AC Tool [`.lua` and `.manifest` files] 
