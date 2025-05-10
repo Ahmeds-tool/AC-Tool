@@ -30,7 +30,4 @@ AC Tool allows you to Drag and Drop to its icon, and then automatically handles 
 - This tool is intended as a temporary workaround until SteamTool is updated or fixed.
 - Use at your own discretion; no files from Steam or your system are permanently modified.
 
-## License
-
-This project is released under the MIT License.
 
